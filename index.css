@@ -1,0 +1,81 @@
+	.body {
+		background: linear-gradient(#213674 , #393D42 ) no-repeat;
+		height: 67%;
+		width: 100%;
+		position: absolute;
+		top: 60px;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		color: white;
+		font-family: monospace;
+		padding-top: 200px;
+
+
+	}
+	a:hover {
+		color: white;
+		text-decoration: none;
+		background-color: #45567D;
+		padding: 15px 45px 15px 35px;
+	}
+
+	a:visited {
+		color: white;
+		text-decoration: none;
+	}
+
+	a:link {
+		color: white;
+		text-decoration: none;
+	}
+
+	.nav {
+		background: #BE3144;
+		height: 60px;
+		width: 100%;
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		right: 0;
+		left: 0;
+		color: white;
+		font-family: monospace;
+
+	}
+
+	#about 
+	{
+		position: absolute;
+		height: 100%;
+		width: 50px;
+		padding: 15px 100px 10px 10px;
+		font-size: 25px;
+		right: 300px;
+	}
+	#work 
+	{
+		position: absolute;
+		order: 1;
+		width: 50px;
+		padding: 15px 100px 10px 10px;
+		font-size: 25px;
+		right: 150px;
+
+	}
+	#contact 
+	{
+		position: absolute;
+		order: 1;
+		width: 50px;
+		padding: 15px 100px 10px 10px;
+		right: 10px;
+		font-size: 25px;
+
+	}
+
+	#web {
+		font-family: Courier, monospace;
+		color: #BE3144;
+		font-size: 35px;
+	}

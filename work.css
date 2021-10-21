@@ -1,0 +1,118 @@
+
+	body {
+		background: #45567D;
+		height: 100%;
+		width: 100%;
+		top: 60px;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		color: white;
+		font-family: monospace;
+		padding-top: 100px;
+		text-decoration: underline 2px;
+
+
+	}
+	a:hover {
+		color: white;
+		text-decoration: none;
+		background-color: #45567D;
+		padding: 15px 45px 15px 35px;
+	}
+
+	a:visited {
+		color: white;
+		text-decoration: none;
+	}
+
+	a:link {
+		color: white;
+		text-decoration: none;
+	}
+
+	.nav {
+		background: #BE3144;
+		height: 60px;
+		width: 100%;
+		position: fixed;
+		top: 0;
+		bottom: 0;
+		right: 0;
+		left: 0;
+		color: white;
+		font-family: monospace;
+
+	}
+
+	#about 
+	{
+		position: absolute;
+		height: 100%;
+		width: 50px;
+		padding: 15px 100px 10px 10px;
+		font-size: 25px;
+		right: 300px;
+	}
+	#work 
+	{
+		position: absolute;
+		order: 1;
+		width: 50px;
+		padding: 15px 100px 10px 10px;
+		font-size: 25px;
+		right: 150px;
+		background-color: ;
+
+	}
+	#contact 
+	{
+		position: absolute;
+		order: 1;
+		width: 50px;
+		padding: 15px 100px 10px 10px;
+		right: 10px;
+		font-size: 25px;
+
+	}
+
+
+
+
+	#cont {
+		position: relative;
+		width: 80%;
+		height: 200px;
+		margin-right: auto;
+		margin-left: auto;
+
+	}
+
+	#git{
+		position: absolute;
+		width: 29%;
+		height: 250px;
+		right: 0;
+		background-color:#303841 ;
+
+	}
+
+	#twit{
+		position: absolute;
+		width: 29%;
+		height: 250px;
+		right: 40%;
+		background-color:#303841 ;
+
+	}
+
+	#phone{
+		position: absolute;
+		width: 29%;
+		height: 250px;
+		right: 80%;
+		background-color:#303841 ;
+
+	}
+
+
